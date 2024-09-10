@@ -17,3 +17,5 @@ npm install
 ```
 npm run start
 ```
+---
+Untuk submission jarkom, upload ke aws
